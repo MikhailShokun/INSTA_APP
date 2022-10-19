@@ -1,0 +1,15 @@
+.Header {
+  width: 100%;
+  height: 55px;
+  // background: red;
+  border-bottom: 1px solid #dbdbdb;
+
+  &_logo {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  &_wrapper{
+    display: flex;
+  }
+}
